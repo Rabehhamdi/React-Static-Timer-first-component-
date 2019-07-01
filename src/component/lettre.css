@@ -1,0 +1,8 @@
+.Lettre{
+    font-size:40px;
+    font-weight:50px;
+    font-style: unset; 
+    text-indent: 20px;
+    display: flex;
+    justify-content: center; 
+}
